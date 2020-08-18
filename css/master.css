@@ -1,0 +1,29 @@
+/* @paulnbrd on github ^^ */
+html, body {
+  font-family: 'Do Hyeon', sans-serif;
+  height:100%;
+  padding:0;
+  margin:0 auto;
+  display: flex;
+}
+
+.content {
+  display:table-cell;
+  margin:auto;
+}
+.no-margin-top {
+  margin-top: 0;
+}
+
+.title {
+  font-size: 500%;
+}
+.bold {
+  font-weight: bold;
+}
+.center {
+  text-align:center;
+}
+.subtitle {
+  color:grey;
+}
