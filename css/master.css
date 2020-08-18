@@ -27,3 +27,14 @@ html, body {
 .subtitle {
   color:grey;
 }
+
+.link {
+  color:black;
+  text-decoration: none;
+}
+.link h4 {
+  margin:10px;
+}
+.supported-language {
+  font-size:15px;
+}
